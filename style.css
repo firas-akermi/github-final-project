@@ -1,0 +1,14 @@
+.maindiv {
+    border-radius: 20 px;
+    background-color: white;
+    color:black;
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    border-radius:10px;
+    vertical-align: middle;    
+}
+body {background-color:black;font-family:arial;color:white;}
+h1{color:grey;font-family:verdana}
+
